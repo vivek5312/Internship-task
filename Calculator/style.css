@@ -1,0 +1,39 @@
+body{
+    background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+  
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.col-md-6{
+    background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+    border: 5px solid black !important;
+    margin-top: 180px !important;
+    padding-left: 150px;
+ 
+}
+input[type=button]{
+    width: 100% ;
+    padding: 10px;
+    padding-left: 10px;
+    background-color: blue;
+    color: whitesmoke;
+    border: 1px solid black;
+    margin-left: 10px;
+}
+input[type=text]{
+    width: 150% !important;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+h1{
+   
+    margin-right: 100px !important;
+
+}
+.clear{
+    margin-left: 100px !important;
+    width: 50% !important;
+}
